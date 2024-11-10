@@ -1,0 +1,3 @@
+This is the alpha file, which is committed to happy path local repo connected to remote cloud GitHub
+repo which does not contains any repo.
+
